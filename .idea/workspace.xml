@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ba1ad34-7507-44f3-bb39-09c60f245224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SASS-challenges.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable-blue.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable-blue.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable-red.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variable-red.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-blue.sass" beforeDir="false" afterPath="$PROJECT_DIR$/variable-blue.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-red.sass" beforeDir="false" afterPath="$PROJECT_DIR$/variable-red.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable-blue.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variable-red.css.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597182697804</updated>
-      <workItem from="1597182700470" duration="394000" />
+      <workItem from="1597182700470" duration="691000" />
     </task>
     <servers />
   </component>
