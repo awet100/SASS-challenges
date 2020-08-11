@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ba1ad34-7507-44f3-bb39-09c60f245224" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/variable-blue.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable-red.css.map" beforeDir="false" />
-    </list>
+    <list default="true" id="5ba1ad34-7507-44f3-bb39-09c60f245224" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -58,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597182697804</updated>
-      <workItem from="1597182700470" duration="691000" />
+      <workItem from="1597182700470" duration="1056000" />
     </task>
     <servers />
   </component>
@@ -80,9 +78,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="292" y="185" key="EditFileWatcherDialog" timestamp="1597182748477">
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1597183823442">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="292" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1597182748477" />
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1597183823442" />
+    <state x="292" y="185" key="EditFileWatcherDialog" timestamp="1597183826758">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="292" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1597183826758" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1597183829956">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597183829956" />
   </component>
 </project>
